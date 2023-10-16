@@ -14,36 +14,36 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class CoordinateData {
     /**
-     * first row index.Priority is higher than {@link #relativeFirstRowIndex}.
+     * First row index.Priority is higher than {@link #relativeFirstRowIndex}.
      */
     private Integer firstRowIndex;
     /**
-     * first column index.Priority is higher than {@link #relativeFirstColumnIndex}.
+     * First column index.Priority is higher than {@link #relativeFirstColumnIndex}.
      */
     private Integer firstColumnIndex;
     /**
-     * last row index.Priority is higher than {@link #relativeLastRowIndex}.
+     * Last row index.Priority is higher than {@link #relativeLastRowIndex}.
      */
     private Integer lastRowIndex;
     /**
-     * last column index.Priority is higher than {@link #relativeLastColumnIndex}.
+     * Last column index.Priority is higher than {@link #relativeLastColumnIndex}.
      */
     private Integer lastColumnIndex;
 
     /**
-     * relative first row index
+     * Relative first row index
      */
     private Integer relativeFirstRowIndex;
     /**
-     * relative first column index
+     * Relative first column index
      */
     private Integer relativeFirstColumnIndex;
     /**
-     * relative last row index
+     * Relative last row index
      */
     private Integer relativeLastRowIndex;
     /**
-     *relative  last column index
+     * Relative  last column index
      */
     private Integer relativeLastColumnIndex;
 }

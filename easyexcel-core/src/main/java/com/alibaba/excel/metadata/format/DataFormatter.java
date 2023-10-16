@@ -144,11 +144,11 @@ public class DataFormatter {
     private final Map<String, Format> formats = new HashMap<String, Format>();
 
     /**
-     * stores the locale valid it the last formatting call
+     * Stores the locale valid it the last formatting call
      */
     private Locale locale;
     /**
-     * true if date uses 1904 windowing, or false if using 1900 date windowing.
+     * True if date uses 1904 windowing, or false if using 1900 date windowing.
      *
      * default is false
      *

@@ -6,7 +6,7 @@ import java.util.Map;
 import com.alibaba.excel.util.StringUtils;
 
 /**
- * excel internal data type
+ * Excel internal data type
  *
  * @author Jiaju Zhuang
  */

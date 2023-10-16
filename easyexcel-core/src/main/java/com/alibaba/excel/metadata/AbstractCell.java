@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * cell
+ * Cell
  *
  * @author Jiaju Zhuang
  **/

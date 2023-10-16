@@ -16,12 +16,12 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class DataFormatData {
     /**
-     * index
+     * Index
      */
     private Short index;
 
     /**
-     * format
+     * Format
      */
     private String format;
 

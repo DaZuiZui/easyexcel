@@ -18,7 +18,7 @@ public class HyperlinkData extends CoordinateData {
      */
     private String address;
     /**
-     * hyperlink type
+     * Hyperlink type
      */
     private HyperlinkType hyperlinkType;
 

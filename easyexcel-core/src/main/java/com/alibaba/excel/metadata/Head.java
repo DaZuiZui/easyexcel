@@ -49,7 +49,7 @@ public class Head {
     private Boolean forceName;
 
     /**
-     * column with
+     * Column with
      */
     private ColumnWidthProperty columnWidthProperty;
 

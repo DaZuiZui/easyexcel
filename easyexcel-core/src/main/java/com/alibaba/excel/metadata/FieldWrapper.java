@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 /**
- * filed wrapper
+ * Filed wrapper
  *
  * @author Jiaju Zhuang
  */
@@ -25,7 +25,7 @@ import lombok.Setter;
 public class FieldWrapper {
 
     /**
-     * field
+     * Field
      */
     private Field field;
 

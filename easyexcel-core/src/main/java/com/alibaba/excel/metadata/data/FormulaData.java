@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * formula
+ * Formula
  *
  * @author Jiaju Zhuang
  */
@@ -14,7 +14,7 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class FormulaData {
     /**
-     * formula
+     * Formula
      */
     private String formulaValue;
 

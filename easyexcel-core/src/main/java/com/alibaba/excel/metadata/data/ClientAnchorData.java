@@ -27,27 +27,27 @@ import org.apache.poi.util.Internal;
 @EqualsAndHashCode
 public class ClientAnchorData extends CoordinateData {
     /**
-     * top
+     * Top
      */
     private Integer top;
 
     /**
-     * right
+     * Right
      */
     private Integer right;
 
     /**
-     * bottom
+     * Bottom
      */
     private Integer bottom;
 
     /**
-     * left
+     * Left
      */
     private Integer left;
 
     /**
-     * anchor type
+     * Anchor type
      */
     private AnchorType anchorType;
 

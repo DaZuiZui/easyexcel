@@ -9,7 +9,7 @@ import lombok.Getter;
 import org.apache.commons.io.ByteOrderMark;
 
 /**
- * byte order mark
+ * Byte order mark
  *
  * @author Jiaju Zhuang
  */

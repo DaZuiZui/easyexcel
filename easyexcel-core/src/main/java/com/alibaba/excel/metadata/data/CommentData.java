@@ -18,7 +18,7 @@ public class CommentData extends ClientAnchorData {
      */
     private String author;
     /**
-     * rich text string
+     * Rich text string
      */
     private RichTextStringData richTextStringData;
 }

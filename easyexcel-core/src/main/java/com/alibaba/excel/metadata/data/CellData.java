@@ -23,7 +23,7 @@ import lombok.Setter;
 @EqualsAndHashCode
 public class CellData<T> extends AbstractCell {
     /**
-     * cell type
+     * Cell type
      */
     private CellDataTypeEnum type;
     /**
@@ -45,7 +45,7 @@ public class CellData<T> extends AbstractCell {
     private T data;
 
     /**
-     * formula
+     * Formula
      */
     private FormulaData formulaData;
 

@@ -15,12 +15,12 @@ import lombok.Setter;
 public class ImageData extends ClientAnchorData {
 
     /**
-     * image
+     * Image
      */
     private byte[] image;
 
     /**
-     * image type
+     * Image type
      */
     private ImageType imageType;
 
